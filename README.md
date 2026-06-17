@@ -11,8 +11,8 @@
 <!-- Badge bg: #0a0c0f (site bg), icon colors from exact SVG palette -->
 [![Website](https://img.shields.io/badge/cdlofficial.eu-0a0c0f?style=for-the-badge&logo=googlechrome&logoColor=54d98c)](https://cdlofficial.eu)
 [![YouTube CDL Linux](https://img.shields.io/badge/CDL_Linux-0a0c0f?style=for-the-badge&logo=youtube&logoColor=54d98c)](https://youtube.com/@CDLLinux)
-[![YouTube CDL Music](https://img.shields.io/badge/CDL_Music-0a0c0f?style=for-the-badge&logo=youtube&logoColor=f0c45a)](https://youtube.com/@CDLMusicOfficial)
-[![Spotify](https://img.shields.io/badge/Spotify-0a0c0f?style=for-the-badge&logo=spotify&logoColor=54d98c)](https://open.spotify.com/artist/YOUR_SPOTIFY_ID)
+[![YouTube CDL Music](https://img.shields.io/badge/CDL_Music-0a0c0f?style=for-the-badge&logo=youtube&logoColor=f0c45a)](https://youtube.com/@cdlmusicofficial )
+[![Spotify](https://img.shields.io/badge/Spotify-0a0c0f?style=for-the-badge&logo=spotify&logoColor=54d98c)](https://open.spotify.com/artist/7MNpCdh1UVkP5LUODNqe8b )
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cdllinuxofficial&style=for-the-badge&color=54d98c&labelColor=0a0c0f)
 
@@ -81,71 +81,77 @@ Outside work I run **CDL Production**, an independent mobile studio shipping Flu
 <table>
 <tr>
 <td width="50%">
-
-**✝️ Candella**
-Daily Orthodox companion — prayers, Psalter, Orthodox calendar, and gamified spiritual discipline.
-`Flutter` · `iOS & Android`
-
+**✝️ Candella** · [candella.cdlofficial.eu ↗](https://candella.cdlofficial.eu) · `Active`
+Day-by-day Orthodox companion — full Church calendar, prayer rules, all 150 Psalms, and a spiritual life journal. 100% offline, no ads, no account.
+`Flutter` · `Dart` · `iOS & Android`
+ 
 </td>
 <td width="50%">
-
-**📖 Biblia Ortodoxă**
-Romanian Orthodox Bible with multi-translation reader across 5 languages.
+**📻 Radio LOGOS** · `Live`
+Mobile app for the first Orthodox radio station in Moldova — built pro-bono. Free on Google Play and App Store.
 `Flutter` · `iOS & Android`
-
+ 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-**🗺️ Mănăstiri MD**
-Interactive map of Moldovan monasteries with offline PMTiles tiles.
-`Flutter` · `flutter_map` · `PMTiles`
-
+**📖 Biblia Ortodoxă** · `Active`
+Orthodox Bible reader — reading progress, advanced search, and bookmarks. Flutter + Firebase with Firestore sync.
+`Flutter` · `Firebase` · `iOS & Android`
+ 
 </td>
 <td width="50%">
-
-**🔀 Parallella**
-Stacked Bible translation reader — RO · RU · GR · EN · HE side by side.
-`Flutter` · `iOS & Android`
-
+**🙏 Why Orthodox?** · `In development`
+102 short, searchable apologetics answers grounded in Scripture and the Fathers. Protestant & Orthodox modes. Fully offline, RO · EN · RU.
+`Flutter` · `Dart` · `iOS & Android`
+ 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-**📻 Radio LOGOS**
-Live Orthodox radio streaming — published on App Store & Google Play.
-`Flutter` · `iOS & Android`
-
+**🗺️ Mănăstiri MD** · `In development`
+All 56 Moldovan monasteries — offline dark map, navigation, hram dates, photo galleries, RO · RU · EN.
+`Flutter` · `MapLibre` · `PMTiles`
+ 
 </td>
 <td width="50%">
-
-**👶 Nuri** *(in development)*
-Baby companion — sleep tracking, sounds, growth & feeding logs.
-`Flutter` · `Firebase`
-
+**👶 Nuri** · [nuri.cdlofficial.eu ↗](https://nuri.cdlofficial.eu) · `In development`
+Baby companion — sleep tracking, feeding, developmental leaps, growth milestones. Backed by pediatric research.
+`Flutter` · `Firebase` · `Dart`
+ 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-**🚀 Pulse**
-Mobile arcade game — skill ranks, achievements, economy & Firebase leaderboard.
-`Flutter` · `Flame` · `Firebase`
-
+**🚀 Pulse** · [pulse.cdlofficial.eu ↗](https://pulse.cdlofficial.eu) · `Active`
+Fast-paced one-tap arcade — escalating difficulty, haptics, neon visuals, Firebase leaderboard.
+`Flutter` · `Flame` · `Firebase` · `iOS & Android`
+ 
 </td>
 <td width="50%">
-
-**🔐 CDL Auth**
-Self-hosted push MFA — RADIUS/UDP 1812, MikroTik L2TP integration.
-`Node.js` · `TypeScript` · `Flutter`
-
+**🛸 Tao Baryon** · [tao-baryon.cdlofficial.eu ↗](https://tao-baryon.cdlofficial.eu) · `In development`
+Hard sci-fi vertical shooter — 30 stages, 5 bosses, 9 ships, grounded in real physics.
+`Flutter` · `Flame` · `Firebase` · `iOS & Android`
+ 
+</td>
+</tr>
+<tr>
+<td width="50%">
+**🎮 CDL Godot MCP** · [github ↗](https://github.com/cdllinuxofficial/cdl_godot_mcp) · `Active · Open Source`
+Autonomous AI game development for Godot 4 — 179 tools, full engine coverage, autonomous test-and-fix loop. MIT licensed.
+`TypeScript` · `Node.js` · `MCP` · `GDScript`
+ 
+</td>
+<td width="50%">
+**🏋️ CDL Protocol** · `In development`
+Training tracker built around progressive overload — currently in active testing and feature expansion.
+`Flutter` · `Riverpod` · `sqflite` · `fl_chart`
+ 
 </td>
 </tr>
 </table>
-
 ---
+
 
 ## 📊 Stats
 
