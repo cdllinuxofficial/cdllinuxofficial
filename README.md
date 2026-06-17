@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated CDL mark — GIF always animates on GitHub -->
-<img src="https://raw.githubusercontent.com/cdllinuxofficial/cdllinuxofficial/main/assets/cdl-mark-electrons-avatar.gif" width="150" alt="CDL Production" />
+<img src="https://raw.githubusercontent.com/cdllinuxofficial/cdllinuxofficial/main/assets/cdl-mark-electrons-avatar.svg" width="150" alt="CDL Production" />
 
 <!-- JetBrains Mono matches the lockup font; #54d98c is the exact teal from the SVGs -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=54D98C&center=true&vCenter=true&width=660&lines=CDL+Production+%7C+%5B+software+studio+%5D;Systems+Administrator+%26+DevOps+Engineer;Kubernetes+%E2%80%A2+MikroTik+%E2%80%A2+Splunk+%E2%80%A2+Zabbix;Flutter+%E2%80%A2+Firebase+%E2%80%A2+Flame+Engine;Building+from+Chi%C8%99in%C4%83u%2C+Moldova+%F0%9F%87%B2%F0%9F%87%A9" alt="Typing SVG" />
