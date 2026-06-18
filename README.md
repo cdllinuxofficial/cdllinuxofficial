@@ -158,8 +158,7 @@ Training tracker built around progressive overload — currently in active testi
 <div align="center">
 
 <!-- text_color: #9aa2ab (site body text), border: #1c2230 (card bg from SVG) -->
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdllinuxofficial&layout=compact&theme=transparent&title_color=54d98c&text_color=9aa2ab&border_color=1c2230&langs_count=8" />
-&nbsp;&nbsp;
+
 <!-- ring: #54d98c (primary teal), fire: #f0c45a (gold), dates: #7a818a (site caption color) -->
 <img height="155" src="https://streak-stats.demolab.com?user=cdllinuxofficial&theme=transparent&border=1c2230&ring=54d98c&fire=f0c45a&currStreakLabel=54d98c&sideLabels=9aa2ab&dates=7a818a" />
 
